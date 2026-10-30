@@ -6,29 +6,7 @@
 
 ### Repository overview
 
-- Name: 2627-weekly-session
-- Purpose: a community-maintained collection of session materials, schedules, and notes for the 2627 Weekly Session Series. All session material files are stored in `Contents/`.
-
-### Repository structure
-
-- [Contents/](./Contents/) — All session material files are stored here, organized by session. Add or edit course files under the appropriate `Contents/<your-course>/` directory, named `S<NN>-<YYYYMMDD>-<CourseName>` (e.g. `S01-20261023-Markdown`). Standalone course repositories may be included as submodules, with the folder named the same way.
-
-### Quick start (fork + local preview)
-
-The complete, step-by-step contribution workflow (fork → branch → edit `Contents/` → PR) is documented in [CONTRIBUTING.md](./CONTRIBUTING.md). Please read `CONTRIBUTING.md` for VSCode GUI instructions and repository conventions.
-
-#### Short summary
-
-- Fork the repo on GitHub.
-- Clone your fork into VSCode.
-- Create a feature branch and edit files under `Contents/<your-course>/`.
-- Commit, publish the branch, and open a PR to `CompPsyUnion/main`.
-
-See `CONTRIBUTING.md` for details and examples.
-
-### Contact
-
-- [Robert He](https://github.com/hnrobert) [hnrobert@qq.com](mailto:hnrobert@qq.com)
+ub.com/hnrobert) [hnrobert@qq.com](mailto:hnrobert@qq.com)
 
 ## zh-CN
 
